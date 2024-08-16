@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Codemobilechallengeapp</string>
+
+    <!--    login-->
+    <string name="login_title">Login</string>
+    <string name="login_button">Login</string>
+    <string name="login_email_hint">email</string>
+    <string name="login_password_hint">password</string>
+
+    <string name="price">%.02f ฿</string>
+    <string name="discount">%.02f %%</string>
+    <string name="remain">remain %1$s item(s)</string>
+    <string name="sum">Total price %.02f ฿</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- indicator dot -->
+    <dimen name="dots_size">8dp</dimen>
+    <dimen name="dots_spacing">8dp</dimen>
+
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="action_bar_height">56dp</dimen>
+    <dimen name="half_action_bar_height">28dp</dimen>
+
+    <dimen name="main_bottom_navigation_height">80dp</dimen>
+
+    <dimen name="edittext_box_radius">8dp</dimen>
+
+    <dimen name="text_11">10sp</dimen>
+    <dimen name="text_12">11sp</dimen>
+    <dimen name="text_13">13sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_17">17sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_22">22sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_28">28sp</dimen>
+    <dimen name="text_34">34sp</dimen>
+
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_20">20dp</dimen>
+    <dimen name="space_22">22dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_30">30dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+    <dimen name="space_36">36dp</dimen>
+    <dimen name="space_40">40dp</dimen>
+    <dimen name="space_48">48dp</dimen>
+    <dimen name="space_56">56dp</dimen>
+
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_radius_8">8dp</dimen>
+
+    <dimen name="edit_text_height">55dp</dimen>
+
+    <dimen name="bottom_navigation_height">60dp</dimen>
+    
+    <dimen name="account_photo_size">100dp</dimen>
+
+</resources>
